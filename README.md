@@ -4,24 +4,31 @@ The trickiest part of this lab was using GitHub to upload my notebook and chart 
 
 # Biometric Authentication - Lab 0 (Anaconda)
 
-**Student:** Khalaf Mohammed Al-Mahrouqi (ID: 2110971)
+**Student:** Khalaf Mohammed Al-Mahrouqi  
+**Student ID:** 2110971
 
 ## Files
-- Lab0_Anaconda.ipynb - My Jupyter Notebook containing Python exercises and outputs.
-- my_first_chart.png - My bar chart showing quiz scores.
-- env_screenshot.png - Screenshot proving that my biometrics environment is active.
-- packages.txt - List of installed packages in my conda environment.
+
+- `Lab0_Anaconda.ipynb` - My Jupyter Notebook containing Python exercises and outputs.
+- `my_first_chart.png` - My bar chart showing quiz scores.
+- `env_screenshot.png` - Screenshot proving that my biometrics environment is active.
+- `packages.txt` - List of installed packages in my conda environment.
 
 ## Knowledge Check Answers
 
-Q1: B  Q2: D  Q3: A  Q4: B  Q5: C
-
-Q6: B  Q7: C  Q8: D  Q9: B  Q10: C
-
-Q11: A  Q12: D  Q13: B  Q14: C  Q15: D
-
-Q16: B  Q17: A  Q18: C  Q19: B  Q20: C
+| Question | Answer | Question | Answer |
+|:--------:|:------:|:--------:|:------:|
+| Q1 | B | Q11 | A |
+| Q2 | D | Q12 | D |
+| Q3 | A | Q13 | B |
+| Q4 | B | Q14 | C |
+| Q5 | C | Q15 | D |
+| Q6 | B | Q16 | B |
+| Q7 | C | Q17 | A |
+| Q8 | D | Q18 | C |
+| Q9 | B | Q19 | B |
+| Q10 | C | Q20 | C |
 
 ## Reflection
 
-The trickiest part of this lab was creating the conda environment because I faced some errors with Anaconda plugins and missing files, but I fixed the issues and successfully created the biometrics environment.
+The trickiest part of this lab was creating the conda environment because I faced some errors with Anaconda plugins and missing files. I fixed the issues and successfully created the biometrics environment. This lab helped me understand how to use Anaconda, Jupyter Notebook, Python, and GitHub.
